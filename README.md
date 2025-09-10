@@ -30,6 +30,6 @@
   </tr>
 </table>  
 
-🔗 [Portfolio](https://mdkamran.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/md-kamran-247154246/)  
+🔗 <a href="https://mdkamran.vercel.app/" target="_blank">Portfolio</a> • <a href="https://www.linkedin.com/in/md-kamran-247154246/" target="_blank">LinkedIn</a>  
 
 ⭐ Building cool projects at the intersection of **design & code**  
